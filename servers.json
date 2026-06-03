@@ -14,7 +14,7 @@
       "host": "farko-test-02.example",
       "port": 22005,
       "gamemode": "test",
-      "lang": "sr"
+      "lang": "rs"
     },
     {
       "name": "FARKO TEST SERVER #03",
@@ -84,7 +84,7 @@
       "host": "farko-test-12.example",
       "port": 22005,
       "gamemode": "test",
-      "lang": "nl"
+      "lang": "ru"
     },
     {
       "name": "FARKO TEST SERVER #13",
