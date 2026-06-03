@@ -24,6 +24,14 @@
       "gamemode": "test",
       "lang": "rs",
       "featured": false
+    },
+        {
+      "name": "Test Server 2",
+      "host": "112.118.9.120",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "rs",
+      "featured": false
     }
   ]
 }
