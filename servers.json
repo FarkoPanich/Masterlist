@@ -91,14 +91,14 @@
       "host": "farko-test-13.example",
       "port": 22005,
       "gamemode": "test",
-      "lang": "sv"
+      "lang": "rs"
     },
     {
       "name": "FARKO TEST SERVER #14",
       "host": "farko-test-14.example",
       "port": 22005,
       "gamemode": "test",
-      "lang": "da"
+      "lang": "rs"
     },
     {
       "name": "FARKO TEST SERVER #15",
