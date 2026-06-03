@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T15:00:00Z",
+  "updated": "2026-06-04T12:30:00Z",
   "servers": [
     {
       "name": "Pulse Project",
@@ -8,6 +8,14 @@
       "gamemode": "roleplay",
       "lang": "ru",
       "featured": true
+    },
+    {
+      "name": "Test Server",
+      "host": "127.0.0.1",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "rs",
+      "featured": false
     }
   ]
 }
