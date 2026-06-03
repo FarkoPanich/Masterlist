@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-04T16:00:00Z",
+  "updated": "2026-06-04T20:00:00Z",
   "servers": [
+    {
+      "name": "Balkan School",
+      "host": "rage.balkan-school.com",
+      "port": 22005,
+      "gamemode": "roleplay",
+      "lang": "rs",
+      "featured": false
+    },
     {
       "name": "Pulse Project",
       "host": "play.one-project.uk",
