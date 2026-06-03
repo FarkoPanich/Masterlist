@@ -1,13 +1,146 @@
 {
-  "updated": "2026-06-04T16:00:00Z",
+  "updated": "2026-06-03T20:00:00Z",
   "servers": [
     {
-      "name": "Pulse Project",
-      "host": "play.one-project.uk",
+      "name": "FARKO TEST SERVER #01",
+      "host": "farko-test-01.example",
       "port": 22005,
-      "gamemode": "roleplay",
-      "lang": "ru",
+      "gamemode": "test",
+      "lang": "en",
       "featured": true
+    },
+    {
+      "name": "FARKO TEST SERVER #02",
+      "host": "farko-test-02.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "sr"
+    },
+    {
+      "name": "FARKO TEST SERVER #03",
+      "host": "farko-test-03.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "hr"
+    },
+    {
+      "name": "FARKO TEST SERVER #04",
+      "host": "farko-test-04.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "de"
+    },
+    {
+      "name": "FARKO TEST SERVER #05",
+      "host": "farko-test-05.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "fr"
+    },
+    {
+      "name": "FARKO TEST SERVER #06",
+      "host": "farko-test-06.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "es"
+    },
+    {
+      "name": "FARKO TEST SERVER #07",
+      "host": "farko-test-07.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "it"
+    },
+    {
+      "name": "FARKO TEST SERVER #08",
+      "host": "farko-test-08.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "pt"
+    },
+    {
+      "name": "FARKO TEST SERVER #09",
+      "host": "farko-test-09.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "ru"
+    },
+    {
+      "name": "FARKO TEST SERVER #10",
+      "host": "farko-test-10.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "pl"
+    },
+    {
+      "name": "FARKO TEST SERVER #11",
+      "host": "farko-test-11.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "tr"
+    },
+    {
+      "name": "FARKO TEST SERVER #12",
+      "host": "farko-test-12.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "nl"
+    },
+    {
+      "name": "FARKO TEST SERVER #13",
+      "host": "farko-test-13.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "sv"
+    },
+    {
+      "name": "FARKO TEST SERVER #14",
+      "host": "farko-test-14.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "da"
+    },
+    {
+      "name": "FARKO TEST SERVER #15",
+      "host": "farko-test-15.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "no"
+    },
+    {
+      "name": "FARKO TEST SERVER #16",
+      "host": "farko-test-16.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "fi"
+    },
+    {
+      "name": "FARKO TEST SERVER #17",
+      "host": "farko-test-17.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "cs"
+    },
+    {
+      "name": "FARKO TEST SERVER #18",
+      "host": "farko-test-18.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "hu"
+    },
+    {
+      "name": "FARKO TEST SERVER #19",
+      "host": "farko-test-19.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "ro"
+    },
+    {
+      "name": "FARKO TEST SERVER #20",
+      "host": "farko-test-20.example",
+      "port": 22005,
+      "gamemode": "test",
+      "lang": "bg"
     }
   ]
 }
