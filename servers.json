@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-04T21:00:00Z",
+  "updated": "2026-06-05T12:00:00Z",
   "servers": [
     {
       "name": "Pulse Project",
       "host": "play.one-project.uk",
+      "port": 22005,
+      "gamemode": "roleplay",
+      "lang": "ru",
+      "featured": true
+    },
+    {
+      "name": "PREM V || Black",
+      "host": "31.76.50.66",
       "port": 22005,
       "gamemode": "roleplay",
       "lang": "ru",
