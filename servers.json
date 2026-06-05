@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T12:00:00Z",
+  "updated": "2026-06-05T14:00:00Z",
   "servers": [
     {
       "name": "Pulse Project",
@@ -15,6 +15,14 @@
       "port": 22005,
       "gamemode": "roleplay",
       "lang": "ru",
+      "featured": true
+    },
+    {
+      "name": "Balkan School",
+      "host": "rage.balkan-school.com",
+      "port": 22005,
+      "gamemode": "roleplay",
+      "lang": "rs",
       "featured": true
     }
   ]
