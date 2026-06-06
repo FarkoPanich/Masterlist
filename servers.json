@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T15:00:00Z",
+  "updated": "2026-06-06T12:00:00Z",
   "servers": [
     {
       "name": "Pulse Project",
@@ -15,6 +15,14 @@
       "port": 22005,
       "gamemode": "roleplay",
       "lang": "ru",
+      "featured": true
+    },
+    {
+      "name": "🤍 Reimond RP 🤍",
+      "host": "reimo.duckdns.org",
+      "port": 22005,
+      "gamemode": "roleplay",
+      "lang": "ua",
       "featured": true
     }
   ]
